@@ -8,7 +8,7 @@ This package includes one add-on component for Rack, a Ruby web server interface
 
 Add this line to your application's Gemfile:
 
-    gem 'rack-try_static'
+    gem 'rack-try_static2'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rack-try_static
+    $ gem install rack-try_static2
 
 ## Usage
 
