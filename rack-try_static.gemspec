@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rack/try_static/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "rack-try_static"
+  spec.name          = "rack-try_static2"
   spec.version       = Rack::TryStatic::VERSION
   spec.authors       = ["Caleb Buxton"]
   spec.email         = ["me@cpb.ca"]
